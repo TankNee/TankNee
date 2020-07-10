@@ -17,4 +17,4 @@ This is TankNee, a Sophomore student in Hust.
 - 📫 You could contact with me by [email](mailto:nee@tanknee.cn) or put a comment in my web site!
 -  ⚡  Fun fact: It has been two year that I start to code and join github!
 - 🎉 If possible , you could look up my current activities in my [blog](https://www.tanknee.cn)!
-- 📈 Look forward to meet you in GitHub
+- 📈 Look forward to meeting you in GitHub
