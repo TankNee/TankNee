@@ -19,6 +19,8 @@ This is TankNee, a Sophomore student in Hust.
 - 🎉 If possible , you could look up my current activities in my [blog](https://www.tanknee.cn)!
 - 📈 Look forward to meeting you in GitHub
 
+### Last Week Coding Time
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript  20 hrs 7 mins       ██████████████████░░░░░░░   74.2 
