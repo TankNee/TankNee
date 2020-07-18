@@ -19,6 +19,10 @@ This is TankNee, a Sophomore student in Hust.
 - 🎉 If possible , you could look up my current activities in my [blog](https://www.tanknee.cn)!
 - 📈 Look forward to meeting you in GitHub
 
+### Github State
+
+![Github State](https://github-readme-stats.vercel.app/api?username=TankNee&show_icons=true&hide_border=true)
+
 ### 🖥 Last Week Coding Time
 
 <!--START_SECTION:waka-->
