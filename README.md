@@ -27,12 +27,10 @@ This is TankNee, a Sophomore student in Hust.
 
 <!--START_SECTION:waka-->
 ```text
-Week #29 : July 13 - 18
-
-JavaScript  23 hrs 14 mins      ██████████████████░░░░░░░   72.27% 
-C#          6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-JSON        52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-Markdown    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
-Vue.js      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
+JavaScript  23 hrs              ██████████████████░░░░░░░   73.09 % 
+C#          6 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.40 % 
+JSON        52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Markdown    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+CSS         24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 <!--END_SECTION:waka-->
