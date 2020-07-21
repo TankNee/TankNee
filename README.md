@@ -1,7 +1,12 @@
 
-### 👋 Hi Github 
+<h1 align="center">Hi 👋, I'm TankNee</h1>
 
-This is TankNee, a Sophomore student in Hust.
+<h3 align="center">a Sophomore student in Hust.</h3>
+
+
+<h3 align="center">Coding Skill</h3>
+
+<p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanknee&show_icons=true" alt="tanknee" /> </p>
 
 ### 📌 Social Profile 
 
@@ -18,6 +23,7 @@ This is TankNee, a Sophomore student in Hust.
 -  ⚡  Fun fact: It has been two year that I start to code and join github!
 - 🎉 If possible , you could look up my current activities in my [blog](https://www.tanknee.cn)!
 - 📈 Look forward to meeting you in GitHub
+- 🔭 I’m currently working on [Hexo-douban-card](https://github.com/TankNee/hexo-douban-card)
 
 ### 📊 Github State
 
@@ -34,3 +40,4 @@ CSS         1 hr 2 mins         ░░░░░░░░░░░░░░░░
 Markdown    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 <!--END_SECTION:waka-->
+
