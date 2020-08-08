@@ -32,8 +32,7 @@ JSON         56 mins         █░░░░░░░░░░░░░░░░
 Markdown     21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 Vue.js       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
-<!--END_SECTION:waka-->
 
-<!--### 🎈 Coding Skill
-
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></p>-->
+### 📕 Blog
+<!--END_SECTION:waka--><!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
