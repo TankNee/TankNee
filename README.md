@@ -22,6 +22,8 @@
 
 ![Github State](https://github-readme-stats.vercel.app/api?username=TankNee&show_icons=true&hide_border=true)
 
+![Code Srare](https://github-readme-stats.vercel.app/api/top-langs/?username=TankNee&layout=compact&hide_border=true&title_color=a0a9af)
+
 ### 🖥 Last Week Coding Time
 
 <!--START_SECTION:waka-->
