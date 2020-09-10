@@ -16,7 +16,7 @@
 -  ⚡  Fun fact: It has been two year that I start to code and join github!
 - 🎉 If possible , you could look up my current activities in my [blog](https://www.tanknee.cn)!
 - 📈 Look forward to meeting you in GitHub
-- 🔭 I’m currently working on [Hexo-douban-card](https://github.com/TankNee/hexo-douban-card)
+- 🔭 I’m currently working on [Neeto-Vue](https://github.com/TankNee/Neeto-Vue), An awesome WizNote client
 
 ### 📊 Github State
 
