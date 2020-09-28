@@ -30,9 +30,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 37 mins   ████████████▓░░░░░░░░░░░░   50.05 % 
-Vue.js       2 hrs 31 mins   ████████████░░░░░░░░░░░░░   48.32 % 
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+
 ```
 <!--END_SECTION:waka-->
 
