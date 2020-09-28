@@ -37,9 +37,9 @@
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [使用github Actions构建electron应用](https://www.tanknee.cn/2020/09/27/%E4%BD%BF%E7%94%A8githubactions%E6%9E%84%E5%BB%BAelectron%E5%BA%94%E7%94%A8/)
 - [redis入门](https://www.tanknee.cn/2020/09/24/redis%E5%85%A5%E9%97%A8/)
 - [线性回归的简洁实现](https://www.tanknee.cn/2020/07/19/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E7%9A%84%E7%AE%80%E6%B4%81%E5%AE%9E%E7%8E%B0/)
 - [Hexo豆瓣文章插件](https://www.tanknee.cn/2020/07/08/Hexo%E8%B1%86%E7%93%A3%E6%96%87%E7%AB%A0%E6%8F%92%E4%BB%B6/)
 - [Twenty](https://www.tanknee.cn/2020/07/04/twenty/)
-- [阿里云Ai训练营DayThree](https://www.tanknee.cn/2020/06/06/aliyunAiDayThree/)
 <!-- BLOG-POST-LIST:END -->
