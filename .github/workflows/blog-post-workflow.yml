@@ -12,4 +12,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.tanknee.cn/atom.xml"
+          feed_list: "http://feed.cnblogs.com/blog/u/564456/rss/"
