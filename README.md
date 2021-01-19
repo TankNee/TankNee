@@ -42,9 +42,9 @@ CSS          22 mins         ▓░░░░░░░░░░░░░░░░
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [2020 实录](https://www.tanknee.cn/2020/12/31/2020-%E5%AE%9E%E5%BD%95/)
-- [我为了记笔记手写了一个客户端](https://www.tanknee.cn/2020/10/02/%E6%88%91%E4%B8%BA%E4%BA%86%E8%AE%B0%E7%AC%94%E8%AE%B0%E6%89%8B%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AE%A2%E6%88%B7%E7%AB%AF/)
-- [使用github Actions构建electron应用](https://www.tanknee.cn/2020/09/27/%E4%BD%BF%E7%94%A8githubactions%E6%9E%84%E5%BB%BAelectron%E5%BA%94%E7%94%A8/)
-- [redis入门](https://www.tanknee.cn/2020/09/24/redis%E5%85%A5%E9%97%A8/)
-- [线性回归的简洁实现](https://www.tanknee.cn/2020/07/19/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E7%9A%84%E7%AE%80%E6%B4%81%E5%AE%9E%E7%8E%B0/)
+- [前端面试：Http协议与浏览器 - tanknee](http://www.cnblogs.com/tanknee/p/14284390.html)
+- [使用OpenCV进行简单的人像分割与合成 - tanknee](http://www.cnblogs.com/tanknee/p/14281641.html)
+- [OSTU大津法图像分割 - tanknee](http://www.cnblogs.com/tanknee/p/14279668.html)
+- [数据库概论 （八）并发处理 - tanknee](http://www.cnblogs.com/tanknee/p/14278437.html)
+- [数据库概论 （七）恢复技术 - tanknee](http://www.cnblogs.com/tanknee/p/14278424.html)
 <!-- BLOG-POST-LIST:END -->
