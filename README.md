@@ -42,9 +42,9 @@ Vue.js       30 mins         ▓░░░░░░░░░░░░░░░░
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [PAT Advanced 1003 Emergency 详解 - tanknee](http://www.cnblogs.com/tanknee/p/14306875.html)
 - [前端面试：Http协议与浏览器 - tanknee](http://www.cnblogs.com/tanknee/p/14284390.html)
 - [使用OpenCV进行简单的人像分割与合成 - tanknee](http://www.cnblogs.com/tanknee/p/14281641.html)
 - [OSTU大津法图像分割 - tanknee](http://www.cnblogs.com/tanknee/p/14279668.html)
 - [数据库概论 （八）并发处理 - tanknee](http://www.cnblogs.com/tanknee/p/14278437.html)
-- [数据库概论 （七）恢复技术 - tanknee](http://www.cnblogs.com/tanknee/p/14278424.html)
 <!-- BLOG-POST-LIST:END -->
