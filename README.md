@@ -42,9 +42,9 @@ Vue.js       27 mins         █░░░░░░░░░░░░░░░░
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [PAT Advanced 1007 Maximum Subsequence Sum - tanknee](http://www.cnblogs.com/tanknee/p/14318993.html)
+- [PAT Advanced 1006 Sign In and Sign Out - tanknee](http://www.cnblogs.com/tanknee/p/14317690.html)
+- [PAT Advanced  1005 Spell It Right - tanknee](http://www.cnblogs.com/tanknee/p/14317334.html)
+- [PAT Advanced 1004 Counting Leaves  - tanknee](http://www.cnblogs.com/tanknee/p/14317295.html)
 - [PAT Advanced 1003 Emergency 详解 - tanknee](http://www.cnblogs.com/tanknee/p/14306875.html)
-- [前端面试：Http协议与浏览器 - tanknee](http://www.cnblogs.com/tanknee/p/14284390.html)
-- [使用OpenCV进行简单的人像分割与合成 - tanknee](http://www.cnblogs.com/tanknee/p/14281641.html)
-- [OSTU大津法图像分割 - tanknee](http://www.cnblogs.com/tanknee/p/14279668.html)
-- [数据库概论 （八）并发处理 - tanknee](http://www.cnblogs.com/tanknee/p/14278437.html)
 <!-- BLOG-POST-LIST:END -->
