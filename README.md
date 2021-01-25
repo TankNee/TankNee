@@ -42,9 +42,9 @@ Vue.js       24 mins         █░░░░░░░░░░░░░░░░
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [PAT Advanced 1010 Radix - tanknee](http://www.cnblogs.com/tanknee/p/14321386.html)
+- [PAT Advanced 1009 Product of Polynomials - tanknee](http://www.cnblogs.com/tanknee/p/14320813.html)
+- [PAT Advanced 1008 Elevator - tanknee](http://www.cnblogs.com/tanknee/p/14320737.html)
 - [PAT Advanced 1007 Maximum Subsequence Sum - tanknee](http://www.cnblogs.com/tanknee/p/14318993.html)
 - [PAT Advanced 1006 Sign In and Sign Out - tanknee](http://www.cnblogs.com/tanknee/p/14317690.html)
-- [PAT Advanced  1005 Spell It Right - tanknee](http://www.cnblogs.com/tanknee/p/14317334.html)
-- [PAT Advanced 1004 Counting Leaves  - tanknee](http://www.cnblogs.com/tanknee/p/14317295.html)
-- [PAT Advanced 1003 Emergency 详解 - tanknee](http://www.cnblogs.com/tanknee/p/14306875.html)
 <!-- BLOG-POST-LIST:END -->
