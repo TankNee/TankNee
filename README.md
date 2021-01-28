@@ -38,9 +38,9 @@ JavaScript   6 mins          █████████████████
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [PAT Advanced 1013 Battle Over Cities - tanknee](http://www.cnblogs.com/tanknee/p/14325433.html)
-- [PAT Advanced 1012 The Best Rank - tanknee](http://www.cnblogs.com/tanknee/p/14325424.html)
-- [PAT Advanced 1011 World Cup Betting - tanknee](http://www.cnblogs.com/tanknee/p/14325415.html)
-- [PAT Advanced 1010 Radix - tanknee](http://www.cnblogs.com/tanknee/p/14321386.html)
-- [PAT Advanced 1009 Product of Polynomials - tanknee](http://www.cnblogs.com/tanknee/p/14320813.html)
+- [PAT Nowcoder Advanced 1008 Deduplication on a Linked List - tanknee](http://www.cnblogs.com/tanknee/p/14336458.html)
+- [PAT Nowcoder Advanced 1007 Consecutive Factors - tanknee](http://www.cnblogs.com/tanknee/p/14336455.html)
+- [PAT Nowcoder Advanced 1006 Cars on Campus - tanknee](http://www.cnblogs.com/tanknee/p/14336449.html)
+- [PAT Nowcoder Advanced 1005 The Largest Generation - tanknee](http://www.cnblogs.com/tanknee/p/14336444.html)
+- [PAT Nowcoder Advanced 1003 Highest Price in Supply Chain - tanknee](http://www.cnblogs.com/tanknee/p/14336437.html)
 <!-- BLOG-POST-LIST:END -->
