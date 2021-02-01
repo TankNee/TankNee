@@ -39,9 +39,9 @@ Objective-C   1 min           ░░░░░░░░░░░░░░░░�
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [从一片森林(JavaScript)到另一片森林(C++) - tanknee](http://www.cnblogs.com/tanknee/p/14352329.html)
 - [PAT Nowcoder Advanced 1008 Deduplication on a Linked List - tanknee](http://www.cnblogs.com/tanknee/p/14336458.html)
 - [PAT Nowcoder Advanced 1007 Consecutive Factors - tanknee](http://www.cnblogs.com/tanknee/p/14336455.html)
 - [PAT Nowcoder Advanced 1006 Cars on Campus - tanknee](http://www.cnblogs.com/tanknee/p/14336449.html)
 - [PAT Nowcoder Advanced 1005 The Largest Generation - tanknee](http://www.cnblogs.com/tanknee/p/14336444.html)
-- [PAT Nowcoder Advanced 1003 Highest Price in Supply Chain - tanknee](http://www.cnblogs.com/tanknee/p/14336437.html)
 <!-- BLOG-POST-LIST:END -->
