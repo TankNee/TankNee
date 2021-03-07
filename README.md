@@ -42,9 +42,9 @@ JSON         26 mins         ▒░░░░░░░░░░░░░░░░
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [PAT Advanced 1049 Counting Ones (30 分) - tanknee](http://www.cnblogs.com/tanknee/p/14492802.html)
 - [Neeto-Vue:我为了记笔记，手写了一个为知笔记客户端 - tanknee](http://www.cnblogs.com/tanknee/p/14367479.html)
 - [从一片森林(JavaScript)到另一片森林(C++) - tanknee](http://www.cnblogs.com/tanknee/p/14352329.html)
 - [PAT Nowcoder Advanced 1008 Deduplication on a Linked List - tanknee](http://www.cnblogs.com/tanknee/p/14336458.html)
 - [PAT Nowcoder Advanced 1007 Consecutive Factors - tanknee](http://www.cnblogs.com/tanknee/p/14336455.html)
-- [PAT Nowcoder Advanced 1006 Cars on Campus - tanknee](http://www.cnblogs.com/tanknee/p/14336449.html)
 <!-- BLOG-POST-LIST:END -->
