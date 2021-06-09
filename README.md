@@ -31,7 +31,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   5 mins          █████████████████░░░░░░░░   67.97 % 
+C#           1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 ```
 <!--END_SECTION:waka-->
 
