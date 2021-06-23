@@ -8,6 +8,14 @@
 [![WeiboFans](https://img.shields.io/badge/dynamic/json?color=%23E6162D&label=WeiboFollowers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D5201023153)](https://www.weibo.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=TankNee.TankNee)
 
+---
+
+<a href="https://github.com/linonetwo">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=TankNee&column=7&theme=onedark"/>
+    </p>
+</a>
+
 ### 👦 About Me 
 
 - 🌱 I’m currently learning big data, spark and Hadoop.
