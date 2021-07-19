@@ -39,10 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     19 mins         ██████████▓░░░░░░░░░░░░░░   42.53 % 
-Vue.js       14 mins         ████████░░░░░░░░░░░░░░░░░   31.87 % 
-JavaScript   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-TypeScript   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Markdown     19 mins         ████████████████████████▓   98.12 % 
 ```
 <!--END_SECTION:waka-->
 
