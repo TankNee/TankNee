@@ -44,9 +44,9 @@
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [CS:APP Chapter 4 Y86-64处理器设计-读书笔记 - tanknee](http://www.cnblogs.com/tanknee/p/15322302.html)
+- [CS:APP Chapter 3 程序的机器级表示-读书笔记 - tanknee](http://www.cnblogs.com/tanknee/p/15322287.html)
 - [CS:APP Chapter 1 计算机系统漫游 - tanknee](http://www.cnblogs.com/tanknee/p/csapp_01.html)
 - [PAT Advanced 1049 Counting Ones (30 分) - tanknee](http://www.cnblogs.com/tanknee/p/14492802.html)
 - [Neeto-Vue:我为了记笔记，手写了一个为知笔记客户端 - tanknee](http://www.cnblogs.com/tanknee/p/14367479.html)
-- [从一片森林(JavaScript)到另一片森林(C++) - tanknee](http://www.cnblogs.com/tanknee/p/14352329.html)
-- [PAT Nowcoder Advanced 1008 Deduplication on a Linked List - tanknee](http://www.cnblogs.com/tanknee/p/14336458.html)
 <!-- BLOG-POST-LIST:END -->
