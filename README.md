@@ -37,8 +37,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON   8 mins          ████████████████████▒░░░░   80.96 % 
-CSV    2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.04 % 
+
 ```
 <!--END_SECTION:waka-->
 
