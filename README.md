@@ -48,9 +48,9 @@ Markdown     1 min           ▓░░░░░░░░░░░░░░░░
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [CS:APP Chapter 7 链接-读书笔记 - tanknee](http://www.cnblogs.com/tanknee/p/15323560.html)
-- [CS:APP Chapter 6 存储器层次系统-读书笔记 - tanknee](http://www.cnblogs.com/tanknee/p/15323552.html)
-- [CS:APP Chapter 5 程序优化-读书笔记 - tanknee](http://www.cnblogs.com/tanknee/p/15323528.html)
-- [CS:APP Chapter 4 Y86-64处理器设计-读书笔记 - tanknee](http://www.cnblogs.com/tanknee/p/15322302.html)
-- [CS:APP Chapter 3 程序的机器级表示-读书笔记 - tanknee](http://www.cnblogs.com/tanknee/p/15322287.html)
+- [博茨瓦纳-小国寡民之典范 - tanknee](https://www.cnblogs.com/tanknee/p/15834728.html)
+- [CS:APP Chapter 7 链接-读书笔记 - tanknee](https://www.cnblogs.com/tanknee/p/15323560.html)
+- [CS:APP Chapter 6 存储器层次系统-读书笔记 - tanknee](https://www.cnblogs.com/tanknee/p/15323552.html)
+- [CS:APP Chapter 5 程序优化-读书笔记 - tanknee](https://www.cnblogs.com/tanknee/p/15323528.html)
+- [CS:APP Chapter 4 Y86-64处理器设计-读书笔记 - tanknee](https://www.cnblogs.com/tanknee/p/15322302.html)
 <!-- BLOG-POST-LIST:END -->
