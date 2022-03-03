@@ -38,7 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C            38 mins         ███████████████████▓░░░░░   79.04 %
+C++          9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
