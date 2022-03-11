@@ -38,9 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C        0 secs          █████████████████████████   99.82 %
-CMake    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
