@@ -38,9 +38,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 mins          ███████████████▒░░░░░░░░░   61.37 %
-JavaScript   3 mins          ████████▓░░░░░░░░░░░░░░░░   35.13 %
-Vue.js       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Python       5 mins          █████████████████████▒░░░   85.52 %
+JavaScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
 ```
 
 <!--END_SECTION:waka-->
