@@ -38,9 +38,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TeX            6 hrs 35 mins   █████████████░░░░░░░░░░░░   52.63 %
-JavaScript     2 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
-Other          1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+JavaScript   2 hrs 40 mins   ██████████▓░░░░░░░░░░░░░░   43.11 %
+Other        1 hr 17 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
 ```
 
 <!--END_SECTION:waka-->
