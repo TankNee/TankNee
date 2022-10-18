@@ -12,7 +12,7 @@
 
 <a href="https://github.com/linonetwo">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=TankNee&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=TankNee&column=7"/>
     </p>
 </a>
 
@@ -28,6 +28,8 @@
 ### 📊 Github State
 
 ![Github State](https://github-readme-stats.vercel.app/api?username=TankNee&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TankNee)
 
 ### 📶 Code State
 
