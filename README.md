@@ -53,9 +53,9 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [22 哈工大深圳计算机考研 854 | 418 |三区初试第一 - tanknee](https://www.cnblogs.com/tanknee/p/16091376.html)
-- [博茨瓦纳-小国寡民之典范 - tanknee](https://www.cnblogs.com/tanknee/p/15834728.html)
-- [CS:APP Chapter 7 链接-读书笔记 - tanknee](https://www.cnblogs.com/tanknee/p/15323560.html)
-- [CS:APP Chapter 6 存储器层次系统-读书笔记 - tanknee](https://www.cnblogs.com/tanknee/p/15323552.html)
-- [CS:APP Chapter 5 程序优化-读书笔记 - tanknee](https://www.cnblogs.com/tanknee/p/15323528.html)
+- [Pytorch 自动求导小结](https://www.tanknee.cn/2022/10/08/15)
+- [tf-keras model 入门](https://www.tanknee.cn/2022/09/10/tf-keras-model-beginner)
+- [我的『数字文具盒』](https://www.tanknee.cn/2022/09/07/digital-pencil-case)
+- [macOS 安装 tensorflow](https://www.tanknee.cn/2022/09/04/macOS-%E5%AE%89%E8%A3%85-tensorflow)
+- [使用线性模型对文本情感进行分类](https://www.tanknee.cn/2022/09/04/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 <!-- BLOG-POST-LIST:END -->
