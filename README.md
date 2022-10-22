@@ -55,7 +55,7 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:START -->
 - [Pytorch 自动求导小结](https://www.tanknee.cn/2022/10/08/15)
 - [tf-keras model 入门](https://www.tanknee.cn/2022/09/10/tf-keras-model-beginner)
+- [我的『数字文具盒』](https://www.tanknee.cn/2022/09/07/digital-pencil-case)
 - [macOS 安装 tensorflow](https://www.tanknee.cn/2022/09/04/macOS-%E5%AE%89%E8%A3%85-tensorflow)
 - [使用线性模型对文本情感进行分类](https://www.tanknee.cn/2022/09/04/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
-- [Nodejs 网络请求库 HTTP 307 重定向问题](https://www.tanknee.cn/2022/07/29/Nodejs-%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82%E5%BA%93-HTTP-307-%E9%87%8D%E5%AE%9A%E5%90%91%E9%97%AE%E9%A2%98)
 <!-- BLOG-POST-LIST:END -->
