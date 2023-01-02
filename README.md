@@ -51,9 +51,9 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [从词袋模型到词向量](https://www.tanknee.cn/2023/01/01/word-bag-vector)
 - [Pytorch 自动求导小结](https://www.tanknee.cn/2022/10/08/15)
 - [tf-keras model 入门](https://www.tanknee.cn/2022/09/10/tf-keras-model-beginner)
 - [我的『数字文具盒』](https://www.tanknee.cn/2022/09/07/digital-pencil-case)
 - [macOS 安装 tensorflow](https://www.tanknee.cn/2022/09/04/macOS-%E5%AE%89%E8%A3%85-tensorflow)
-- [使用线性模型对文本情感进行分类](https://www.tanknee.cn/2022/09/04/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB)
 <!-- BLOG-POST-LIST:END -->
