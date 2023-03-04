@@ -40,8 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SSH Key   0 secs          ██████████████████▓░░░░░░   75.08 %
-Other     0 secs          ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+Python   22 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
