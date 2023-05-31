@@ -20,7 +20,7 @@
 
 - 🌱 A rookie javascript developer.
 - 📫 You could contact with me by [email](mailto:nee@tanknee.cn) or put a comment in my web site!
--  ⚡  Fun fact: It has been five year that I start to code and join github!
+-  ⚡  Fun fact: It has been five years that I start to code and join github!
 - 🎉 If possible , you could look up my current activities in my [blog](https://www.tanknee.cn)!
 - 📈 Look forward to meeting you in GitHub
 - 🔭 I’m currently working on [Memocast](https://github.com/TankNee/Memocast), An awesome WizNote client
