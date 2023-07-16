@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            5 hrs 24 mins   ████████████░░░░░░░░░░░░░   48.24 %
-JSON              3 hrs 41 mins   ████████▒░░░░░░░░░░░░░░░░   32.96 %
-Markdown          1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-TypeScript        47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Protocol Buffer   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python       4 hrs 19 mins   ███████████░░░░░░░░░░░░░░   44.52 %
+JSON         3 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   37.50 %
+Markdown     1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+TypeScript   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
