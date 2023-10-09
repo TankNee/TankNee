@@ -39,7 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+ActionScript 3   12 mins         ███████████████░░░░░░░░░░   60.52 %
+Python           3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Other            2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+INI              1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
 ```
 
 <!--END_SECTION:waka-->
