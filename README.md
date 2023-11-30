@@ -51,9 +51,9 @@ CSS          29 mins         ▓░░░░░░░░░░░░░░░░
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu 非管理员权限安装 OpenCV 与 FFmpeg](https://www.tanknee.cn/2023/11/29/opencv-ffmpeg)
 - [将 AnonymousQuestionBox 部署在服务器上](https://www.tanknee.cn/2023/03/03/17)
 - [从词袋模型到词向量](https://www.tanknee.cn/2023/01/01/word-bag-vector)
 - [Pytorch 自动求导小结](https://www.tanknee.cn/2022/10/08/15)
 - [tf-keras model 入门](https://www.tanknee.cn/2022/09/10/tf-keras-model-beginner)
-- [我的『数字文具盒』](https://www.tanknee.cn/2022/09/07/digital-pencil-case)
 <!-- BLOG-POST-LIST:END -->
