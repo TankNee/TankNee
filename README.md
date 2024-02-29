@@ -34,6 +34,10 @@
 
 ![Code Srare](https://github-readme-stats.vercel.app/api/top-langs/?username=TankNee&layout=compact&hide_border=true&title_color=a0a9af)
 
+### 🎮 Leetcode State
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/tanknee?theme=nord&font=PT%20Serif&ext=activity&site=cn)
+
 ### 🖥 Last Week Coding Time
 
 <!--START_SECTION:waka-->
