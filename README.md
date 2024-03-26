@@ -36,7 +36,7 @@
 
 ### 🎮 Leetcode State
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/tanknee?theme=nord&font=PT%20Serif&ext=activity&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/TankNee?theme=nord&font=Song%20Myung&ext=heatmap&site=cn)
 
 ### 🖥 Last Week Coding Time
 
