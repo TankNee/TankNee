@@ -50,9 +50,9 @@ No activity tracked
 ### 📕 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek R1 Paper Reading](https://www.tanknee.cn/2025/02/07/deepseek-r1)
 - [读研尾迹其三](https://www.tanknee.cn/2025/02/01/endnote-3)
 - [读研尾迹-其二](https://www.tanknee.cn/2025/01/29/endnote-2)
 - [读研尾迹-其一](https://www.tanknee.cn/2024/12/27/endnote-1)
 - [Ubuntu 非管理员权限安装 OpenCV 与 FFmpeg](https://www.tanknee.cn/2023/11/29/opencv-ffmpeg)
-- [将 AnonymousQuestionBox 部署在服务器上](https://www.tanknee.cn/2023/03/03/17)
 <!-- BLOG-POST-LIST:END -->
